@@ -37,6 +37,7 @@ export const Text = styled.div`
     bottom: 40px;
     min-height: 100px;
     margin-right: 20px;
+    margin-bottom: 20px;
     color: var(--white);
 
     h1 {
