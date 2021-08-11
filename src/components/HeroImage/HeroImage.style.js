@@ -37,7 +37,7 @@ export const Text = styled.div`
     bottom: 40px;
     min-height: 100px;
     margin-right: 20px;
-    margin-bottom: 20px;
+    
     color: var(--white);
 
     h1 {
@@ -57,5 +57,6 @@ export const Text = styled.div`
 
     @media screen and (max-width: 720px) {
         max-width: 100%;
+        margin-bottom: 20px;
     }
 `;
